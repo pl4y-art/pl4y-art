@@ -1,0 +1,81 @@
+[
+  {
+    "name": "play os",
+    "thubmnail": "/img/tokens/playos.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmVWXeGB1V4WSpHvGTsdgPs543wpbvjbB5SVjdZa1yGeFE/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/141104"
+  },
+  {
+    "name": "v0.8",
+    "thubmnail": "/img/tokens/08.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmeBkw4tdt4BB5ooo8vHKEmR3e2v8SWLs5c3PPHTu3zEqV/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/381767"
+  },
+  {
+    "name": "v0.6",
+    "thubmnail": "/img/tokens/06.gif",
+    "play": "https://assets.objkt.media/file/assets-003/Qmb4oMN8JYjzchiKxJeteoChnWKdayLwcn9CLcDuvMfAq3/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/276734"
+  },
+  {
+    "name": "unknown.exe",
+    "thubmnail": "/img/tokens/unknown.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmQZx2HbW4sZsA3BNRD4Q7oh7SHHXrHVFiB3kaopzt11Rv/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/257576"
+  },
+  {
+    "name": "v0.9.2",
+    "thubmnail": "/img/tokens/09.jpeg",
+    "play": "https://assets.objkt.media/file/assets-003/QmdSHYpQ8aU7jS8fqTuJWEzxcyG5V4jEy3Q4SvZSWT57wH/artifact/index.html",
+    "token": "https://objkt.com/asset/KT1C1pGGZPJG3YgAfy1MqfBbjbqJipjae6un/2"
+  },
+  {
+    "name": "failed experiment",
+    "thubmnail": "/img/tokens/failedexp.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmYsAHRf7jokVR8vAZoYZSyqSqxdRAfh5pDGEgL5JD2zAV/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/501244"
+  },
+  {
+    "name": "v0.7",
+    "thubmnail": "/img/tokens/07.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmXuGhGMYSZDpdPpjHHJ3KHayRBe3Faive4fvredmAWxjn/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/316585"
+  },
+
+  {
+    "name": "v0.5",
+    "thubmnail": "/img/tokens/05.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmYzqSxTpnVr149MUcyUbgERBpStRzGW3ZFGxyoDAg5Szh/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/266547"
+  },
+  {
+    "name": "v0.4",
+    "thubmnail": "/img/tokens/04.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmPKEbZmNZ26CbSYCG5gQQcGz4cwC6pZkxssVT3x5Vka4h/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/193912"
+  },
+  {
+    "name": "v0.3",
+    "thubmnail": "/img/tokens/03.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmbzY3MachxTwB9236Kvv3BVTtHmY6dLCswdw65n58yKh5/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/172633"
+  },
+  {
+    "name": "v0.2",
+    "thubmnail": "/img/tokens/02.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmTabeR5grR2UiAdNoj6MKZoaSkT6H3KpHZZryV3P14GsT/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/166319"
+  },
+  {
+    "name": "v0.1",
+    "thubmnail": "/img/tokens/01.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmRErPNE3gS8dqgTKLkuRHqYpaDsNLSx23AZWc6rak8EXN/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/160454"
+  },
+  {
+    "name": "geomi.exe",
+    "thubmnail": "/img/tokens/play-geomi.png",
+    "play": "",
+    "token": "https://www.fxhash.xyz/generative/14588"
+  }
+]

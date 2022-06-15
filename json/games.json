@@ -1,0 +1,20 @@
+[
+  {
+    "name": "unknown.exe",
+    "thubmnail": "/img/tokens/unknown.gif",
+    "play": "https://assets.objkt.media/file/assets-003/QmQZx2HbW4sZsA3BNRD4Q7oh7SHHXrHVFiB3kaopzt11Rv/artifact/index.html",
+    "token": "https://objkt.com/asset/hicetnunc/257576"
+  },
+  {
+    "name": "indecision",
+    "thubmnail": "/img/tokens/indecision.png",
+    "play": "",
+    "token": "https://store.steampowered.com/app/720030/Indecision/"
+  },
+  {
+    "name": "stikir",
+    "thubmnail": "/img/tokens/stikir.png",
+    "play": "",
+    "token": "https://store.steampowered.com/app/952200/stikir/"
+  }
+]
