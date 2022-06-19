@@ -1,4 +1,10 @@
 [
+   {
+    "name": "typed.art",
+    "thubmnail": "/img/tokens/typed.png",
+    "play": "",
+    "token": "https://typed.art"
+  },
   {
     "name": "Tezos Pixels",
     "thubmnail": "/img/tokens/tzpixels.png",
