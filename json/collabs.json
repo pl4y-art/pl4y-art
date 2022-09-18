@@ -1,5 +1,17 @@
 [
   {
+    "name": "Storms Above The Submarine",
+    "thubmnail": "/img/tokens/xerox.gif",
+    "play": "",
+    "token": "https://objkt.com/asset/KT1V6THnVEX22bXSgrNsded6FbApz6fVtpCk/2"
+  },
+  {
+    "name": "thoughts",
+    "thubmnail": "/img/tokens/thoughts.gif",
+    "play": "",
+    "token": "https://objkt.com/asset/KT1H9sNse7XtbVRqzMqL1EMPWYwfjcd24DYG/1"
+  },
+  {
     "name": "The Arguments",
     "thubmnail": "/img/tokens/arguments.gif",
     "play": "",
@@ -11,13 +23,13 @@
     "play": "",
     "token": "https://objkt.com/asset/KT1CwzT5FS1GqgyBCkoUP141J4XTp53mfTEw/0"
   },
-    {
+  {
     "name": "Recycled Chaos",
     "thubmnail": "/img/tokens/recycled-chaos.png",
     "play": "",
     "token": "https://www.fxhash.xyz/generative/7756"
   },
-    {
+  {
     "name": "geomi.exe",
     "thubmnail": "/img/tokens/play-geomi.png",
     "play": "",
